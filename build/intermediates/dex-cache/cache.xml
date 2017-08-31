@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a1a0cd970f114cb8ba50ed532867a5cce0827a5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_ff9ef96281202ff35df4b773c52ac88e24a0d2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c32df7cd50f86a102f15a43028ea186199902b27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9f77fffd0b5b097a2473caa9789028a1c68507fc">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_c150b24bbcb5b23c7302768bed0ad05fe206ad6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7f987cc5454bf45e18047586b8fc32bdd935da55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_5d03035d7772f505b1690905d1db8042ac2bd83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\732aa0ac064ce37b83e177504f174484c28c172a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_6bb516fe4b689e9f73e3633e35da5a6d4b819a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.1.2_30b270bb378363c5ded28421fff9202428fed071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-beta4_e23037635433fe189e1b58909ce389aa7d3d465e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_8ad53718875d263efc9f5dad95fc3130e7736adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4_ff5e801f6eef544a1408f5132c8f2c7b6c1a5980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e724731419c15b851780e065064b284a037c5014\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_24ea2e9011a823880b424c2d24dfdc2b8df13e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2e155a3ce2fc08faf968424e53eea549ee743e93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_c743dc3bef00b3f62675281bbe29ae19104564ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\eed453dd0fa4cc68124f6233957163a00f148daf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_8b19856ae54fad016cee8d26d63a4f00a1d197f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\CommonFrame\CommonFrameSimple\gsjcommon\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21e14725edc541f4ff013c852d2ba3be80370d41">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_27a87702423d2d193410d6686a50c5e36248f3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\62a91c441cfd4218fab10a97788fc1477143c744\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_0b9b89225c3cd67f8c24a95d3a0c33458996d941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e35b8a7932f022e221a9f39d224aeafc2a1b6798\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd7fab60422845fefbda75fc4594d614357265ae">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_83c43f390ff44496d9cf79efd61875898c7e4d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.2\c3b60518ca618748430276191918f78ab36bc4b5\analytics-6.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\analytics-6.1.2_317268eae3a0623be40abe52167d7c32e34331f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c02e383f6d61d079ffd24dfe968f7b2dd5ebbd73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_2ea576ea9283e9882ee7f7b1016a729819ec76c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0e50499d1d714f74afa68a93f394d65dbd4c84f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_7fe192008286441a553af5b6982bc78dc1a7df73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2474e69c133f3d04f532c2499e2cdd590bcc3875\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_7ec09fca98c247b6fb93e7f1df3c29e666b869eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e2ec58608f355fe860864849f3412672462d48f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_3af8cdc58fa2b00075bc4ba0a3b2cde262a3106d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_51fde4b16fd0a7eeb280abb2913adc017d9df2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6c2d68848fec3407decf6c7ef1f53e4b8e1a42f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6643ec8e2596d17edb2a1a86a35414699453edf0">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_8ffef9d3d14162418557e4f51f81953d8895cad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.8\aba3867820f46117ef0dfe760418b1bc0278894f\fastjson-1.2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aba3867820f46117ef0dfe760418b1bc0278894f">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\fastjson-1.2.8_168a854cf082fb224fcc22337df25944a6dfc909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0be3af4f94a99660acdcd8464da96f69d38b66b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_859d0e6082213f230b2b1c9b6aea2be592394d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta4_c6e97f806b29334717938c473af852cff524d6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6cd62e2f30924d2c1afd8be837ea930284323715\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_6c73066048ae98aef7f48bb29331d23cc2708412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\96f35c4864b24ae5da33007eada5779b2d956a2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_3a6f28c6ade7846a2a59dfe1950a0bb2f729575e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\okhttp-3.1.2_df8be8f3d92fa619ccf539d98de4049254089836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\gson-2.4_6890e801880bd242164763e4b5f4086b8128ed8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6b83afc8c9dac5870f2cbd14f80b5705f1956ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_ddf5c72b4ce2a4a22409b6305a9bd762b5847977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3f5192f43a9b4800414dfb8fb4c8844d4ecfb5c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_518a8ecb9ae47dfd84ce90d23d22197c81fe76de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8b3fff35d4fb4ce08aa8ab0daab86dbd9a683b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3381ce89885b0ef758a575afa4a9a52b31f87d1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_7c09340bbf45f82b0fac88c303f217c5478d43b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e4d559d536a50ace25496df9ba8d6252b88d2793\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_468fc14db5ffbc9a46453dc5896744baf9d5ea58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\33e0d687e45c5594be4feeaed5a80f84f3349ee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_4244cfa53e0d403a6c17ccaf597725cdd2284acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_5290ebd889bdf836ef1f87a7f8bc931d4b8fa107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\4de5ee7c62441fdc366971c0b50e3bd3083c79a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_91e512bae913087424a47ca35305783a0a816840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\11ea9edd38f27d50add9143796df8590190dfdaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\CommonFrame\CommonFrameSimple\app\build\intermediates\pre-dexed\debug\classes_3c5587becda5100ee90d9984a7612957dd626418.jar" />
+    </item>
+
+</items>
