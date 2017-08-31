@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CommonFrame.iml" filepath="$PROJECT_DIR$/CommonFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonFromeSimple.iml" filepath="$PROJECT_DIR$/CommonFromeSimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsjcommon/gsjcommon.iml" filepath="$PROJECT_DIR$/gsjcommon/gsjcommon.iml" />
     </modules>
