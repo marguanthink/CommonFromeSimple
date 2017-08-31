@@ -9,7 +9,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
-        versionName "1.0"
+        versionName "marguan 1.0.0"
     }
     buildTypes {
         release {
@@ -62,7 +62,7 @@ publish {
     userOrg = 'marguanthink'//bintray.com用户名  也就是Organization的名称，可以建多个
     groupId = 'com.guan'//jecnter上的路径 可以自定义
     artifactId = 'CommonFrame'//项目名称
-    publishVersion = '1.0.1'//版本号
+    publishVersion = '1.0.0'//版本号
     desc = '自己项目用的框架'//描述
-//    website = 'https://github.com/SingleShu/QRScanLibrary'//网址
+    website = 'https://github.com/marguanthink/CommonFromeSimple'//网址
 }
